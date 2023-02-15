@@ -9,7 +9,9 @@ For matlab: Lorenz_test.m
 
 For python: Inte_CTE.py 
 
-## Supplementary materials：For matlab: Lorenz.m kernel_entropy.m p_test.m kRTE2.m
+## Supplementary materials：
+
+For matlab: Lorenz.m kernel_entropy.m p_test.m kRTE2.m
 
 For python: utils.py (the code including complete algorithm of matrix-based transfer entropy)  
 
