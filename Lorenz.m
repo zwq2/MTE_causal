@@ -1,4 +1,4 @@
-% 洛伦兹混沌函数
+
 function ret = Lorenz(t,x,C)
 %     y = zeros(1,3);
 %     y(1) = x(4);
