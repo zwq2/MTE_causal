@@ -7,7 +7,7 @@ For the methods of finding the embedding and tau and the significance analysis, 
 ## Important code:
 For matlab: Lorenz_test.m.  Just run it with supplementary materials (matlab)
 
-For python: Inte_CTE.py.  You need data; for example, you can download the Lorenz data or any other interesting dataset.
+For python: Inte_CTE.py.  You need data, for example, you can download the Lorenz data or any other interesting dataset.
 
 ## Supplementary materials：
 
